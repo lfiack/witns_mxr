@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "WITNS_EURORACK")(type "KiCad")(uri "${KIPRJMOD}/../witns_kicad_lib/symbols/WITNS_EURORACK.kicad_sym")(options "")(descr ""))
+)
