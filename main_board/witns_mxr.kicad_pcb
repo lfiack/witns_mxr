@@ -1881,7 +1881,7 @@
 
   (gr_line (start 41.5 153.5) (end 50.5 153.5) (layer "B.SilkS") (width 0.8) (tstamp e6f93449-6c5e-4787-8b1d-1c414af5de91))
   (gr_text "JLCJLCJLCJLC" (at 58 46.03 270) (layer "F.SilkS") (tstamp 087ce093-4920-4c33-8435-f19a36888ebe)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (gr_text "WITNS\nMXR\nv1.0\nLF" (at 40.8 148.3) (layer "F.SilkS") (tstamp cfdda4f4-bd2a-4bd9-8983-a4c2dcc4c316)
     (effects (font (size 2 2) (thickness 0.3)) (justify left))
